@@ -76,3 +76,12 @@ About Page Styling
 .contact-info a.facebook {
   background-image: url("../img/facebook.png");
 }
+
+
+/******
+Projects Page Styling
+*****/
+
+.row-1, .row-2, .row-3 {
+  height: 300px;
+}
