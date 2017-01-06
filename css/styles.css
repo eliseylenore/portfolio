@@ -85,3 +85,20 @@ Projects Page Styling
 .row-1, .row-2, .row-3 {
   height: 300px;
 }
+
+.cupcakes {
+  background: url("../img/cupcake.jpg") no-repeat center;
+}
+
+.hop-hop {
+  background: url("../img/bunny.jpg") no-repeat center;
+}
+
+.photo-overlay {
+  position: relative;
+  min-height: 300px;
+  color: white;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 40px;
+  margin: 15;
+}
