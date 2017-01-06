@@ -37,8 +37,34 @@
   height: 400px;
 }
 
-/******About Page Styling*****/
+
+
+/******
+About Page Styling
+*****/
+
 .about h3{
   font-size: 5rem;
   margin-top: 5rem;
+}
+
+.contact-info a {
+  display: block;
+  padding: 0 0 0 35px;
+  margin-bottom: 15px;
+  min-height: 30px;
+  background-size: 30px 30px;
+  background-repeat: no-repeat;
+}
+
+.contact-info a.phone {
+  background-image: url("../img/phone.png");
+}
+
+.contact-info a.email {
+  background-image: url("../img/email.png");
+}
+
+.contact-info a.facebook {
+  background-image: url("../img/facebook.png");
 }
