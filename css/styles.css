@@ -13,23 +13,32 @@
   padding: 30px;
 }
 
-.top h3 {
+.top h3,{
   float: left;
   margin-left: 30px;
   margin-top: 10px;
 }
 
 .spiel h1 {
-  font-family: 'Pacifico', cursive;
   font-size: 72px;
   padding-bottom: 1em;
 }
 
-.spiel {
+.spiel h1,  .about h3 {
+  font-family: 'Pacifico', cursive;
+}
+
+.spiel, .about h3 {
   text-align: center;
 }
 
 
 .spaceholder {
   height: 400px;
+}
+
+/******About Page Styling*****/
+.about h3{
+  font-size: 5rem;
+  margin-top: 5rem;
 }
