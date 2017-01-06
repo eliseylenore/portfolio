@@ -45,7 +45,11 @@ About Page Styling
 
 .about h3{
   font-size: 5rem;
-  margin-top: 5rem;
+  margin: 5rem 0;
+}
+
+.about-text {
+  margin-bottom: 5rem;
 }
 
 .contact-info a {
