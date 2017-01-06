@@ -2,6 +2,10 @@ p {
   line-height: 1.6em;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 .top {
   background-color: lightblue;
   padding: 30px;
@@ -133,14 +137,11 @@ Projects Page Styling
 
 .photo-overlay:hover {
   background: rgba(0, 0, 0, 0.6);
+  color: lightblue;
 }
 
 .photo-overlay a {
   color: white;
-}
-
-.photo-overlay a:hover {
-  color: lightblue;
 }
 
 .photo-overlay h4 {
