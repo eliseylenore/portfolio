@@ -23,7 +23,7 @@ p {
   padding-bottom: 1em;
 }
 
-.spiel h1,  .about h3 {
+.spiel h1,  .about h3, .photo-overlay h4 {
   font-family: 'Pacifico', cursive;
 }
 
@@ -94,6 +94,34 @@ Projects Page Styling
   background: url("../img/bunny.jpg") no-repeat center;
 }
 
+.hanson {
+  background: url("../img/hanson.jpg") no-repeat center;
+}
+
+.lucky {
+  background: url("../img/lucky.jpg") no-repeat center;
+}
+
+.resort {
+  background: url("../img/fire.jpg") no-repeat center;
+}
+
+.boring {
+  background: url("../img/yawn.jpg") no-repeat center;
+}
+
+.cookies {
+  background: url("../img/cookies.jpg") no-repeat center;
+}
+
+.wiki {
+  background: url("../img/wiki.jpg") no-repeat center;
+}
+
+.first-web-page {
+  background: url("../img/baby.jpg") no-repeat center;
+}
+
 .photo-overlay {
   position: relative;
   min-height: 300px;
@@ -101,4 +129,8 @@ Projects Page Styling
   background: rgba(0, 0, 0, 0.6);
   padding: 40px;
   margin: 15;
+}
+
+.photo-overlay a {
+  color: white;
 }
