@@ -5,3 +5,18 @@
 .top {
   background-color: lightblue;
 }
+
+.spiel h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 72px;
+  padding-bottom: 1em;
+}
+
+.spiel {
+  text-align: center;
+}
+
+
+.spaceholder {
+  height: 400px;
+}
