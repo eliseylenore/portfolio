@@ -48,6 +48,7 @@ About Page Styling
 
 .profile-pic {
   border-radius: 25%;
+  margin-bottom: 5rem;
 }
 
 .about h3{
@@ -57,7 +58,6 @@ About Page Styling
 
 .about-text {
   margin-bottom: 5rem;
-  margin-top: 5rem;
 }
 
 .contact-info a {
